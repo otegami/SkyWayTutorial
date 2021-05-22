@@ -1,0 +1,10 @@
+{
+  "name": "web_rtc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "otegami <t.kodama@everyleaf.com>",
+  "license": "MIT",
+  "dependencies": {
+    "skyway-js": "^4.4.1"
+  }
+}
